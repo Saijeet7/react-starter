@@ -13,8 +13,44 @@ const DUMMY_EXPENSES = [
     id: "e2",
     title: "Macbook",
     amount: "1200",
-    date: new Date(2023, 9, 10),
+    date: new Date(2020, 9, 10),
   },
+  {
+    id: "e3",
+    title: "Airpods",
+    amount: "100",
+    date: new Date(2020, 9, 10),
+  },
+  {
+    id: "e2",
+    title: "Macbook Pro",
+    amount: "1500",
+    date: new Date(2022, 7, 12),
+  },
+  {
+    id: "e2",
+    title: "Macbook Air",
+    amount: "1100",
+    date: new Date(2021, 12, 11),
+  },
+  {
+    id: "e2",
+    title: "Mac Mini",
+    amount: "800",
+    date: new Date(2019, 9, 6),
+  },
+  {
+    id: "e2",
+    title: "Ipad Pro",
+    amount: "1800",
+    date: new Date(2022, 9, 7),
+  },
+  {
+    id: "e2",
+    title: "Apple Pencil",
+    amount: "200",
+    date: new Date(2022, 3, 12),
+  }
 ];
 
 const App = () => {
